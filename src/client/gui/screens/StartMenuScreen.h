@@ -13,6 +13,7 @@ public:
 
 	void init();
 	void setupPositions();
+	void renderMenuPanel();
 
 	void tick();
 	void render(int xm, int ym, float a);
